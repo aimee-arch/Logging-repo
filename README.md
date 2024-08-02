@@ -26,9 +26,13 @@ Logging is important for several reasons:
 Logging levels represent the severity or importance of log messages. Common logging levels include:
 
 **DEBUG: Provides detailed information, typically used for diagnosing problems. Not intended for production use due to verbosity.
+
 **INFO: General information about the application's operation, typically used to log important events.
+
 **WARN: Indicates a potential issue or warning that may require attention but does not necessarily cause immediate problems.
+
 **ERROR: Logs errors that indicate a significant problem affecting functionality. Immediate attention may be required.
+
 **FATAL: Represents severe errors that cause the application to terminate or become unusable. Usually requires immediate resolution.
 
 ## 4. Setting Up a Logger in Java
