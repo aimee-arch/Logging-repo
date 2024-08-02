@@ -1,0 +1,18 @@
+Aug 02, 2024 4:26:28 PM registration.auca.students.ExampleLogging main
+INFO: Application started
+Aug 02, 2024 4:26:28 PM registration.auca.students.ExampleLogging main
+SEVERE: Exception occurred
+java.lang.Exception: Sample exception
+	at registration.auca.students.ExampleLogging.main(ExampleLogging.java:29)
+
+Aug 02, 2024 4:26:28 PM registration.auca.students.ExampleLogging main
+INFO: Application finished
+Aug 02, 2024 4:34:57 PM registration.auca.students.ExampleLogging main
+INFO: Application started
+Aug 02, 2024 4:34:57 PM registration.auca.students.ExampleLogging main
+SEVERE: Exception occurred
+java.lang.Exception: Sample exception
+	at registration.auca.students.ExampleLogging.main(ExampleLogging.java:29)
+
+Aug 02, 2024 4:34:57 PM registration.auca.students.ExampleLogging main
+INFO: Application finished
