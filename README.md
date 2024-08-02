@@ -12,9 +12,13 @@ Logging is the process of recording information about the execution of a program
 
 Logging is important for several reasons:
 -** Debugging: Logs help developers trace issues by providing a detailed record of system behavior and error messages.
+
 -** Monitoring: Logs allow for the monitoring of application performance and usage patterns.
+
 -** Auditing: Logs can provide a trail of actions and changes, which is essential for compliance and security auditing.
+
 -** Performance Tuning: By analyzing logs, developers can identify performance bottlenecks and optimize system performance.
+
 -**   Error Tracking: Logs help track and record errors, making it easier to identify and fix bugs.
 
 ## 3. Understanding Logging Levels
